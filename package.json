@@ -13,7 +13,7 @@
     "header"
   ],
   "module": "custom-header.js",
-  "repository": "git@github.com:maykar/custom-header.git",
+  "repository": "git@github.com:rmarskell/custom-header.git",
   "author": "Ryan Meek",
   "license": "MIT",
   "dependencies": {
